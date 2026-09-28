@@ -68,6 +68,13 @@ ScopeCreepError: one small change → 6 new modules
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meslhy&layout=compact&theme=dark&hide_border=true" alt="Top languages"/>
 </p>
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=meslhy&theme=github-compact&hide_border=true&bg_color=12151a&color=d9a066&line=d9a066&point=e9e6df" alt="Yousef's activity graph"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meslhy/meslhy/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/meslhy/meslhy/output/github-contribution-grid-snake.svg"/>
+</picture>
+
 ### Contact
 
 📧 [Yousef.Ahmed@caliberteches.com](mailto:Yousef.Ahmed@caliberteches.com)
