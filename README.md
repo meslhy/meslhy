@@ -68,6 +68,14 @@ ScopeCreepError: one small change → 6 new modules
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meslhy&layout=compact&theme=dark&hide_border=true" alt="Top languages"/>
 </p>
 
+<p>
+  <img height="150" src="https://streak-stats.demolab.com/?user=meslhy&theme=dark&hide_border=true&background=12151a&stroke=2a323c&ring=d9a066&fire=d9a066&currStreakLabel=d9a066" alt="Yousef's streak stats"/>
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=meslhy&theme=onedark&no-frame=true&margin-w=8&row=1&column=6" alt="Yousef's GitHub trophies"/>
+</p>
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=meslhy&theme=github-compact&hide_border=true&bg_color=12151a&color=d9a066&line=d9a066&point=e9e6df" alt="Yousef's activity graph"/>
 
 <picture>
@@ -81,3 +89,5 @@ ScopeCreepError: one small change → 6 new modules
 <!-- add GitHub/LinkedIn links here -->
 
 <sub>90% Python, 10% arguing with `ir.model.access.csv` about permissions.</sub>
+<br/>
+<sub><img src="https://komarev.com/ghpvc/?username=meslhy&label=Profile+views&color=d9a066&style=flat" alt="profile views"/></sub>
