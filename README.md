@@ -64,19 +64,15 @@ ScopeCreepError: one small change → 6 new modules
 ### GitHub stats
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=meslhy&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Yousef's GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meslhy&layout=compact&theme=dark&hide_border=true" alt="Top languages"/>
+  <img height="150" src="https://github-readme-stats-ruby-seven-58.vercel.app/api?username=meslhy&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Yousef's GitHub stats"/>
+  <img height="150" src="https://github-readme-stats-ruby-seven-58.vercel.app/api/top-langs/?username=meslhy&layout=compact&theme=dark&hide_border=true" alt="Top languages"/>
 </p>
 
 <p>
   <img height="150" src="https://streak-stats.demolab.com/?user=meslhy&theme=dark&hide_border=true&background=12151a&stroke=2a323c&ring=d9a066&fire=d9a066&currStreakLabel=d9a066" alt="Yousef's streak stats"/>
 </p>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=meslhy&theme=onedark&no-frame=true&margin-w=8&row=1&column=6" alt="Yousef's GitHub trophies"/>
-</p>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=meslhy&theme=github-compact&hide_border=true&bg_color=12151a&color=d9a066&line=d9a066&point=e9e6df" alt="Yousef's activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph-vert-five.vercel.app/graph?username=meslhy&theme=github-compact&hide_border=true&bg_color=12151a&color=d9a066&line=d9a066&point=e9e6df" alt="Yousef's activity graph"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meslhy/meslhy/output/github-contribution-grid-snake-dark.svg"/>
