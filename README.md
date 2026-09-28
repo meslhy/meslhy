@@ -18,9 +18,22 @@ I work on Odoo — customizing modules, wiring up integrations, and shaping the 
 
 Most of my time sits between Python on the backend and XML/QWeb on the front, with PostgreSQL underneath holding it all together. I like the parts of the job where a messy manual process turns into a clean automated one.
 
-### Odoo modules I work with
+```python
+@dataclass
+class Yousef:
+    role:    str   = "Odoo Developer"
+    company: str   = "Caliber Techs"
+    stack:   tuple = ("Python", "PostgreSQL", "XML/QWeb", "JavaScript (OWL)")
+    modules: tuple = ("sales", "inventory", "accounting",
+                       "purchase", "pos", "manufacturing")
+    motto:   str   = "turn the messy manual process into the boring automated one"
+```
 
-`sales` `inventory` `accounting` `purchase` `pos` `manufacturing`
+### Tech Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,javascript,docker,git,github,linux,vscode" alt="tech toolbox"/>
+</p>
 
 ### Stack
 
