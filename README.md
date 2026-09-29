@@ -64,11 +64,6 @@ ScopeCreepError: one small change → 6 new modules
 ### GitHub stats
 
 <p>
-  <img height="150" src="https://github-readme-stats-ruby-seven-58.vercel.app/api?username=meslhy&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Yousef's GitHub stats"/>
-  <img height="150" src="https://github-readme-stats-ruby-seven-58.vercel.app/api/top-langs/?username=meslhy&layout=compact&theme=dark&hide_border=true" alt="Top languages"/>
-</p>
-
-<p>
   <img height="150" src="https://streak-stats.demolab.com/?user=meslhy&theme=dark&hide_border=true&background=12151a&stroke=2a323c&ring=d9a066&fire=d9a066&currStreakLabel=d9a066" alt="Yousef's streak stats"/>
 </p>
 
