@@ -56,7 +56,13 @@ Traceback (most recent call last):
     estimate = "2 days"
   File "reality.py", line 42, in run
     raise ScopeCreepError("client asked for 'one small change'")
-ScopeCreepError: one small change → 6 new modules
+
+ScopeCreepError:
+"one small change" → 6 new modules
+                  → 14 new models
+                  → 37 XML views
+                  → 3 migrations
+                  → "Can we have it by EOD?"
 ```
 
 > "It's not a bug, it's an undocumented Odoo feature inherited three versions ago."
